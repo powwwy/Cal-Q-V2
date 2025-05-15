@@ -2,7 +2,7 @@
   "name": "cal-q-v2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://powwwy.github.io/grade-tracker",
+  "homepage": "https://powwwy.github.io/Cal-Q-V2",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
